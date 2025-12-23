@@ -1,0 +1,14 @@
+# Solana local validator
+test-ledger/
+ledger/
+.accounts/
+
+# Anchor build artifacts
+target/
+.node_modules/
+
+# Node
+node_modules/
+
+# OS
+.DS_Store
